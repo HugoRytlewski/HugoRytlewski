@@ -13,7 +13,7 @@ Je suis un étudiant passionné de 19 ans, spécialisé dans le développement w
 - **Frameworks :** Nuxt.js, Symfony , Tailwind Css
 ## Me contacter
 
-- [LinkedIn]([lien_vers_votre_profil_linkedin](https://www.linkedin.com/in/hugo-rytlewski-b06841281/))
+- [LinkedIn](https://www.linkedin.com/in/hugo-rytlewski-b06841281/)
 - [Email](hugorytlewski10@gmail.com)
 
 N'hésitez pas à explorer mes projets et à me contacter pour discuter de développement web, d'opportunités de collaboration ou simplement pour échanger sur des sujets liés à la programmation !

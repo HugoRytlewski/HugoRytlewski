@@ -34,6 +34,8 @@
 ###
 
 <div align="left">
+ <h2 align="left">Me contacter</h2>
+
  <ul>
    <li>
      <a href="https://www.linkedin.com/in/hugo-rytlewski-b06841281/">Linkedin</a>

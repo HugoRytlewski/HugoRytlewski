@@ -58,7 +58,7 @@
      <a href="https://www.linkedin.com/in/hugo-rytlewski-b06841281/">Linkedin</a>
    </li>
      <li>
-      <a href="hugorytlewski.com">Portfolio</a>
+      <a href="https://hugorytlewski.com">Portfolio</a>
       </li>
       <li>
         <a href="mailto:hugorytlewski10@gmail.com">Mail</a>

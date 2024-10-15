@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Je suis un étudiant passionné de 19 ans, spécialisé dans le développement web avec une maîtrise des frameworks Nuxt.js et Symfony. J'aime créer des expériences web interactives et conviviales.</p>
+<p align="left">Je suis un étudiant passionné de 20 ans, spécialisé dans le développement web avec une maîtrise des frameworks Nuxt.js et Symfony. J'aime créer des expériences web interactives et conviviales.</p>
 
 ###
 

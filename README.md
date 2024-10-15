@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Actuellement étudiant et toujours avide d'apprendre de nouvelles technologies.<br>💼 Expérimentant avec Nuxt.js et Symfony pour créer des projets web innovants.<br>🎓 Étudiant en BTS SIO.</p>
+<p align="left">🌱 Actuellement étudiant et toujours avide d'apprendre de nouvelles technologies.<br>💼 Expérimentant avec Nuxt.js et Symfony pour créer des projets web innovants.<br>🎓 Étudiant en LP3 MI AW.</p>
 
 ###
 

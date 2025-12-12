@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">Je suis un étudiant passionné de 20 ans, spécialisé dans le développement web avec une maîtrise des frameworks Nuxt.js et Symfony. J'aime créer des expériences web interactives et conviviales.</p>
+<p align="left">Je suis un étudiant passionné de 21 ans, spécialisé dans le développement web avec une maîtrise des frameworks Nuxt.js et Symfony. J'aime créer des expériences web interactives et conviviales.</p>
 
 ###
 
-<p align="left">🌱 Actuellement étudiant et toujours avide d'apprendre de nouvelles technologies.<br>💼 Expérimentant avec Nuxt.js et Symfony pour créer des projets web innovants.<br>🎓 Étudiant en LP3 MI AW.</p>
+<p align="left">🌱 Actuellement étudiant et toujours avide d'apprendre de nouvelles technologies.<br>💼 Expérimentant avec Nuxt.js et Symfony pour créer des projets web innovants.<br>🎓 Étudiant en Mastère EDAL.</p>
 
 ###
 

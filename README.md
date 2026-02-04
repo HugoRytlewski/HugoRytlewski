@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Actuellement étudiant et toujours avide d'apprendre de nouvelles technologies.<br>💼 Expérimentant avec Nuxt.js et Symfony pour créer des projets web innovants.<br>🎓 Étudiant en Mastère EDAL.</p>
+<p align="left">🌱 Actuellement étudiant et toujours avide d'apprendre de nouvelles technologies.<br>💼 Expérimentant avec Nuxt.js et Symfony pour créer des projets web innovants.<br>🎓 Étudiant en Mastère EADL.</p>
 
 ###
 
